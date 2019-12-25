@@ -1,0 +1,1 @@
+{"./":{"url":"./","title":"RubyGems","keywords":"","body":"RubyGems RubyGems 是 Ruby 的包管理器，它提供分发 Ruby 程序和库的标准格式，还提供管理程序包安装的工具。 "},"docs/使用镜像.html":{"url":"docs/使用镜像.html","title":"使用镜像","keywords":"","body":"使用镜像 执行下面的命令，使用镜像加速。 gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/ 然后执行下面的命令，确保镜像源添加成功。 gem sources -l "}}
